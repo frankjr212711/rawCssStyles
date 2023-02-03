@@ -175,6 +175,7 @@ nav ul > li > a:hover {
     transform: translateY(-100px);
     visibility: hidden;
     opacity: 0;
+    color: yellow;
 }
 .text-content h3 {
     transform: translateY(-100px);
