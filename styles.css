@@ -127,7 +127,7 @@ nav ul > li > a:hover {
 }
 
 .image-box:hover  .img-container {
-    transform: scale(1.1);
+    /* transform: scale(1.1); */
     transition: .2s ease 2s;
     box-shadow: 0 0 40px 0 #133330;
 }
@@ -215,6 +215,7 @@ nav ul > li > a:hover {
     opacity: 1;
     transform: translateY(0px);
     transition: .2s 1s ease-in;
+    /* font-family: montserrat; */
 
 }
 
