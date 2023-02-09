@@ -24,7 +24,8 @@ nav {
     /* display: flex;
     justify-content: center;
     align-content: center; */
-    font-family: mulish;
+    /* font-family: mulish; */
+    font-family: 'quicksand';
     width: 100%;
     margin: 0 auto;
     z-index: 100;
@@ -83,8 +84,8 @@ nav ul > li ul > li:hover ul {
     animation: slideUp .2s .1s ease forwards;
 }
 nav ul > li > a:hover {
-    background: #333;
-    color: #fff;
+    color: #f00;
+    font-weight: 600;
 }
 
 /* keyframes */
